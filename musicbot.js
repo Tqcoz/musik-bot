@@ -196,3 +196,4 @@ function play(guild, song) {
 }
 
 client.login(TOKEN);
+//Made by Julius Yaman, helped and licensed by Minetex(Tqcoz, InflameMC{Danny})
